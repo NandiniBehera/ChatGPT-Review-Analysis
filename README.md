@@ -27,28 +27,6 @@ This project analyses ChatGPT user reviews to classify them as Positive, Negativ
    ```
 3. Review the generated sentiment analysis results and visualizations.
 
-## Results
-
-### Sentiment Distribution
-
-\
-*(Replace with the actual path to your sentiment distribution chart)*
-
-### Most Common Phrases in Positive Reviews
-
-\
-*(Replace with the actual path to your common phrases graph)*
-
-### Word Cloud for Positive & Negative Reviews
-
-\
-*(Replace with the actual path to your word cloud visualization)*
-
-## Expected Output
-
-- Sentiment distribution charts
-- Most common phrases in positive/negative reviews
-- Insights for enhancing user satisfaction
 
 ## Contributing
 
